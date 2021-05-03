@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ExquisiteCorpse
+namespace MonsterMaker
 {
     class Program
     {
